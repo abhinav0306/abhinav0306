@@ -64,9 +64,9 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 
-<a href="https://jestjs.io/" target="_blank"><img style="margin: 10px" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman" height="50" /></a> 
+<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman" height="50" /></a> 
 
-<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/353930/jest.svg" alt="Jest" height="50" /></a> 
+<a href="https://jestjs.io/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/353930/jest.svg" alt="Jest" height="50" /></a> 
 
   
 </div>
